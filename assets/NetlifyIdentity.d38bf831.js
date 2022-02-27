@@ -1,0 +1,1 @@
+import{S as i,i as e,s as o,B as s}from"./vendor.83bb0b86.js";function l(t){return s(()=>{window.netlifyIdentity&&window.netlifyIdentity.on("init",n=>{n||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})})}),[]}class d extends i{constructor(n){super();e(this,n,l,null,o,{})}}export{d as default};
